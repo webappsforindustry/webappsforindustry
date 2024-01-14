@@ -1,22 +1,22 @@
-[![Just Progress IT](./icons/control-room-banner.png)](https://justprogressit.tech)
+[![Web Apps for Industry](./icons/control-room-banner.png)](https://webappsforindustry.tech)
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Roboto&size=40&pause=1000&color=105271&center=true&width=1150&height=60&lines=Just+Progress+IT;The+leading+software+engineering+company+for+the+industry;Technical+Web+Applications+for+the+Industry)](https://justprogressit.tech/)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Roboto&size=40&pause=1000&color=105271&center=true&width=1150&height=60&lines=Web+Apps+for+Industry;The+leading+software+engineering+company+for+the+industry;Technical+Web+Applications+for+the+Industry)](https://webappsforindustry.tech/)
 
 <div align="center">
-<a href="https://www.justprogressit.tech" title="Just Progress IT website"><img src="./icons/website.png" alt="Website icon" width="41px" height="41px"></a> 
+<a href="https://www.webappsforindustry.tech" title="Web Apps for Industry website"><img src="./icons/website.png" alt="Website icon" width="41px" height="41px"></a> 
 <a href="https://www.linkedin.com/company/justprogressit" title="Linkedin"><img src="./icons/linkedin.png" alt="Linkedin logo" width="41px" height="41px"></a>
 <a href="https://www.youtube.com/@JustProgressIT" title="Youtube"><img src="./icons/youtube.png" alt="Youtube logo" width="41px" height="41px"></a>
 
 # About Us:
 <div align="left">
 <h3>2008 – 2015: Instrucontrols Era</h3>
-JustProgressIT's journey began in 2008 as Instrucontrols, specializing in project support, commissioning management, and supervision within the electrotechnical and instrumentation discipline. During this phase, the company successfully supported multiple construction and commissioning projects for prominent operating and engineering companies like Shell, BP, Fluor, and CB&I (now McDermott).
+The journey began in 2008 as Instrucontrols, specializing in project support, commissioning management, and supervision within the electrotechnical and instrumentation discipline. During this phase, the company successfully supported multiple projects for prominent engineering, construction and operating companies like Siemens, Croon, Cegelec, Stork, Gasunie, Shell, Amoco, Statoil, NUON, GDF Suez, Air Liquide, BASF, BP, Pharmacia & Upjohn, ADM, Fluor, Jacobs and CB&I.
 <h3>2015 – 2019: Easypower Europ Ventures</h3>
-In 2015, Instrucontrols transformed into Easypower Europ, focusing on sales, project support, and software development support for EasyPower® electrotechnical engineering software. The company played a pivotal role in modifying the EasyPower® software for the European market. Subsequently, the EasyPower® software achieved successful sales, being acquired by Bentley Systems®. During this period, Easypower Europ also embarked on the development of the AGM Advanced Generator Monitoring system. Although the apparatus was successfully completed and commissioned, it didn't make it to sales. Nevertheless, the AGM continues to be utilized for testing generators.
+In 2015, Instrucontrols transformed into Easypower Europ, focusing on sales, project support, and software development support for EasyPower® electrotechnical engineering software. The company played a pivotal role in modifying the EasyPower® software for the European market. Subsequently, the EasyPower® software achieved successful sales, being acquired by Bentley Systems®. During this period, Easypower Europ also supported the development of the AGM Advanced Generator Monitoring system. The apparatus was successfully completed and commissioned and the AGM continues to be utilized for testing generators.
 <h3>2019 – 2023: PQX Global and Adaptation</h3>
-Pivoting in 2019, the company transformed into PQX Global, aiming to establish an e-commerce platform for the sales of electrical personal protective equipment (PPE). Unfortunately, intense competition led to the difficult decision to halt this venture. During the challenging period of the COVID-19 pandemic, the company adapted by embracing a full-time study on web development.
+Pivoting in 2019, the company transformed into PQX Global, aiming to establish an e-commerce platform for the sales of electrical personal protective equipment (PPE). Unfortunately, intense competition led to the difficult decision to halt this venture. During the challenging period of the COVID-19 pandemic, the company adapted by embracing web development.
 <h3>2023 – Present: Just Progress IT Emerges</h3>
-In 2023, Just Progress IT emerged from the shadows, focusing on the development of technical web applications for the industry. The company's ethos revolves around embracing challenges and providing innovative solutions to complex problems. JustProgressIT has a passion for pushing boundaries, consistently delivering results that surpass expectations. Positioned at the forefront of technological advancements, the company is dedicated to developing efficient applications for sectors such as Oil & Gas, Mining, Energy, Mobility, Food and Manufacturing. Making the world go round, one project at a time, JustProgressIT is committed to progress and excellence in the ever-evolving landscape of web development. Just Progress IT does not only have expertise in web development but also in the disciplines mechanical, electrical, instrumentation, and controls, further enriching its multifaceted capabilities.
+In 2023, Web Apps for Industry emerged from the shadows, focusing on the development of technical web applications for industrial projects. The company&apos;s ethos revolves around embracing challenges and providing innovative solutions to complex problems. Web Apps for Industry has a passion for pushing boundaries, consistently delivering results that surpass expectations. <br /> Positioned at the forefront of technological advancements, the company is dedicated to developing efficient applications for sectors such as Oil & Gas up and downstream, (Petro)-Chemicals, Steel, Mining, Power Generation, Food and Manufacturing in the disciplines Engineering, Construction, Commissioning, Operations and maintenance. <br /> Making the world go round, one project at a time, we are committed to progress and excellence in the ever-evolving landscape of web development. <br /> Web Apps for Industry does not only have expertise in web development but also in the disciplines mechanical, electrical, instrumentation, and controls, further enriching its multifaceted capabilities.
 
 ## Some examples of past projects:
  
@@ -37,7 +37,7 @@ In 2023, Just Progress IT emerged from the shadows, focusing on the development 
 - Commissioning of a <a href="https://www.youtube.com/watch?v=mLjOg9j3WgU" title="Natural Gas Plant">Natural Gas Plant</a> for <a href="https://www.naturgy.com/en/">UNIÓN FENOSA</a> (now Naturgy) in <a href="https://www.google.com/maps/place/HEYCO,+PLANTA+DE+PRODUCCI%C3%93N+DE+GAS+%22VIURA%22/@42.4040049,-2.5937979,976m/data=!3m1!1e3!4m15!1m8!3m7!1s0xd5aab4130b390b1:0xf98252918a168870!2sLogro%C3%B1o,+La+Rioja,+Spain!3b1!8m2!3d42.4627195!4d-2.4449852!16zL20vMDFyc2o4!3m5!1s0xd455192239c1d0f:0x8469faa844a95b06!8m2!3d42.4047508!4d-2.5904264!16s%2Fg%2F11g1ftdy98?authuser=0&entry=ttu">Hornos de Moncalvillo, Spain</a>.
 <div align="center">  
   
-# Just Progress IT is ready to bring Progression, Quality and Expertise to your Next industrial web project by using the following tech stack:
+# Web Apps for Industry is ready to bring Progression, Quality and Expertise to your Next industrial web project by using the following tech stack:
  <div>&nbsp;</div>
 
 ## Project Management:
