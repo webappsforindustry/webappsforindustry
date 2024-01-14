@@ -94,5 +94,5 @@ In 2023, Web Apps for Industry emerged from the shadows, focusing on the develop
 ## Hosting:
 <a href="https://vercel.com/" title="Vercel"><img src="./icons/vercel.png" alt="Vercel logo" width="41px" height="41px"></a>
 # Contact:
-<h2>info@justprogressit.tech</h2>
+<h2>info@webappsforindustry.tech</h2>
  </div>
