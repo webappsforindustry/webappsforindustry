@@ -73,7 +73,7 @@ In 2023, Web Apps for Industry emerged, focusing on the development of technical
 <a href="https://www.sqlite.org/index.html" title="SQLite"><img src="./icons/sqlite.svg" alt="SQLite logo" width="81" height="41"></a>
 ## Security:
 <a href="https://snyk.io/" title="Snyk"><img src="./icons/snyk.png" alt="Snyk logo" width="41px" height="41px"></a>
-<a href="https://securityheaders.com/" title="Probely"><img src="./icons/probely.png" alt="Probely logo" width="41px" height="41px"></a>
+<a href="https://observatory.mozilla.org/" title="Mozilla"><img src="./icons/mozilla.png" alt="Mozilla logo" width="41px" height="41px"></a>
 <a href="https://next-auth.js.org/" title="NextAuth"><img src="./icons/nextauth.png" alt="NextAth logo" width="41px" height="41px"></a>
 ## Testing:
 <a href="https://playwright.dev/" title="Playwright"><img src="./icons/playwright.png" alt="Playwright logo" width="51px" height="41px"></a>
