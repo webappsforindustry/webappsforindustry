@@ -41,22 +41,22 @@ In 2023, Web Apps for Industry emerged, focusing on the development of technical
  <div>&nbsp;</div>
 
 ## Project Management:
-<a href="https://www.wrike.com/" title="Wrike"><img src="./icons/wrike.png" alt="Wrike logo" width="61px" height="41px"></a>
+<a href="https://www.wrike.com/" title="Wrike"><img src="./icons/wrike-tr.png" alt="Wrike logo" width="61px" height="41px"></a>
 ## Architecture:
 <a href="https://www.diagrams.net/" title="Diagrams"><img src="./icons/diagrams.png" alt="Diagrams logo" width="41px" height="41px"></a>
 ## Design:
-<a href="https://www.blender.org/" title="Blender"><img src="./icons/blender.png" alt="Blender logo" width="41px" height="41px"></a>
+<a href="https://www.blender.org/" title="Blender"><img src="./icons/blender-tr.png" alt="Blender logo" width="41px" height="41px"></a>
 <a href="https://inkscape.org/" title="Inkscape"><img src="./icons/inkscape.png" alt="Inkscape logo" width="41px" height="41px"></a>
 <a href="https://www.gimp.org/" title="GIMP"><img src="./icons/gimp.png" alt="Gimp logo" width="41px" height="41px"></a>
-<a href="https://www.figma.com/" title="Figma"><img src="./icons/figma.png" alt="Figma logo" width="31px" height="41px"></a>
-<a href="https://storybook.js.org/" title="Storybook"><img src="./icons/storybook.png" alt="Storybook logo" width="31px" height="41px"></a>
-<a href="https://www.chromatic.com/" title="Chromatic"><img src="./icons/chromatic.png" alt="Chromatic logo" width="41px" height="41px"></a>
+<a href="https://www.figma.com/" title="Figma"><img src="./icons/figma-tr.png" alt="Figma logo" width="31px" height="41px"></a>
+<a href="https://storybook.js.org/" title="Storybook"><img src="./icons/storybook-tr.png" alt="Storybook logo" width="31px" height="41px"></a>
+<a href="https://www.chromatic.com/" title="Chromatic"><img src="./icons/chromatic-tr.png" alt="Chromatic logo" width="41px" height="41px"></a>
 <a href="https://greensock.com/" title="Greensock"><img src="./icons/greensock.png" alt="Greensock logo" width="41px" height="41px"></a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/API/Canvas_API" title="Canvas"><img src="./icons/canvas.png" alt="Canvas" width="36px" height="41px"></a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/API/Canvas_API" title="Canvas"><img src="./icons/canvas-tr.png" alt="Canvas" width="36px" height="41px"></a>
 <a href="https://css-tricks.com/" title="CSS3"><img src="./icons/css-3.svg" alt="CSS3" width="36px" height="41px"></a>
 <a href="https://ui.shadcn.com/" title="chadcn ui"><img src="./icons/chadcnui.png" alt="chadcn UI" width="41px" height="41px"></a>
-<a href="https://tailwindcss.com/" title="Tailwind"><img src="./icons/tailwind.png" alt="Tailwind logo" width="61px" height="41px"></a>
-<a href="https://sass-lang.com/" title="SASS"><img src="./icons/sass.png" alt="SASS logo" width="41px" height="41px"></a>
+<a href="https://tailwindcss.com/" title="Tailwind"><img src="./icons/tailwind-tr.png" alt="Tailwind logo" width="61px" height="41px"></a>
+<a href="https://sass-lang.com/" title="SASS"><img src="./icons/sass-tr.png" alt="SASS logo" width="41px" height="41px"></a>
 <a href="https://react-icons.github.io/react-icons/" title="React Icons"><img src="./icons/react-icons.svg" alt="React Icons logo" width="41px" height="41px"></a>
 ## Development:
 <a href="https://html.com/html5/" title="HTML5"><img src="./icons/html-5.svg" alt="HTML5" width="31px" height="41px"></a>
