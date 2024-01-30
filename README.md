@@ -52,8 +52,8 @@ In 2023, Web Apps for Industry emerged, focusing on the development of technical
 <a href="https://storybook.js.org/" title="Storybook"><img src="./icons/storybook-tr.png" alt="Storybook logo" width="31px" height="41px"></a>
 <a href="https://www.chromatic.com/" title="Chromatic"><img src="./icons/chromatic-tr.png" alt="Chromatic logo" width="41px" height="41px"></a>
 <a href="https://greensock.com/" title="Greensock"><img src="./icons/greensock.png" alt="Greensock logo" width="41px" height="41px"></a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/API/Canvas_API" title="Canvas"><img src="./icons/canvas-tr.png" alt="Canvas" width="36px" height="41px"></a>
-<a href="https://css-tricks.com/" title="CSS3"><img src="./icons/css-3.svg" alt="CSS3" width="36px" height="41px"></a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/API/Canvas_API" title="Canvas"><img src="./icons/canvas-tr.png" alt="Canvas" width="41px" height="41px"></a>
+<a href="https://css-tricks.com/" title="CSS3"><img src="./icons/css-tr.png" alt="CSS3" width="41px" height="41px"></a>
 <a href="https://ui.shadcn.com/" title="chadcn ui"><img src="./icons/chadcnui.png" alt="chadcn UI" width="41px" height="41px"></a>
 <a href="https://tailwindcss.com/" title="Tailwind"><img src="./icons/tailwind-tr.png" alt="Tailwind logo" width="61px" height="41px"></a>
 <a href="https://sass-lang.com/" title="SASS"><img src="./icons/sass-tr.png" alt="SASS logo" width="41px" height="41px"></a>
