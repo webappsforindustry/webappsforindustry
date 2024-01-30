@@ -60,13 +60,13 @@ In 2023, Web Apps for Industry emerged, focusing on the development of technical
 <a href="https://react-icons.github.io/react-icons/" title="React Icons"><img src="./icons/react-icons.svg" alt="React Icons logo" width="41px" height="41px"></a>
 ## Development:
 <a href="https://html.com/html5/" title="HTML5"><img src="./icons/html-5.svg" alt="HTML5" width="31px" height="41px"></a>
-<a href="https://www.typescriptlang.org/" title="Typescript"><img src="./icons/typescript.png" alt="Typescript logo" width="41px" height="41px"></a>
+<a href="https://www.typescriptlang.org/" title="Typescript"><img src="./icons/typescript-tr.png" alt="Typescript logo" width="41px" height="41px"></a>
 <a href="https://nextjs.org/" title="Next"><img src="./icons/next.png" alt="Next logo" width="41px" height="41px"></a>
 <a href="https://redux.js.org/" title="Redux"><img src="./icons/redux-tr.png" alt="Redux logo" width="41px" height="41px"></a>
-<a href="https://mdxjs.com/" title="MDX"><img src="./icons/mdx.png" alt="MDX" width="61px" height="41px"></a>
-<a href="https://aws.amazon.com/what-is/sql/" title="SQL"><img src="./icons/sql.png" alt="SQL logo" width="41px" height="41px"></a>
+<a href="https://mdxjs.com/" title="MDX"><img src="./icons/mdx-tr.png" alt="MDX" width="61px" height="41px"></a>
+<a href="https://aws.amazon.com/what-is/sql/" title="SQL"><img src="./icons/sql-tr.png" alt="SQL logo" width="41px" height="41px"></a>
 <a href="https://zod.dev/" title="Zod"><img src="./icons/zod-logo.png" alt="Zod logo" width="51px" height="41px"></a>
-<a href="https://www.prisma.io/" title="Prisma"><img src="./icons/prisma.png" alt="Prisma logo" width="41px" height="41px"></a>
+<a href="https://www.prisma.io/" title="Prisma"><img src="./icons/prisma-tr.png" alt="Prisma logo" width="41px" height="41px"></a>
 ## Databases:
 <a href="https://supabase.com/" title="Supabase"><img src="./icons/supabase.png" alt="Supabase logo" width="32" height="41"></a>
 <a href="https://www.postgresql.org/" title="PostgreSQL"><img src="./icons/postgresql.svg" alt="PostgreSQL logo" width="41" height="41"></a>
