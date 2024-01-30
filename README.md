@@ -72,20 +72,20 @@ In 2023, Web Apps for Industry emerged, focusing on the development of technical
 <a href="https://www.postgresql.org/" title="PostgreSQL"><img src="./icons/postgresql.svg" alt="PostgreSQL logo" width="41" height="41"></a>
 <a href="https://www.sqlite.org/index.html" title="SQLite"><img src="./icons/sqlite.svg" alt="SQLite logo" width="81" height="41"></a>
 ## Security:
-<a href="https://snyk.io/" title="Snyk"><img src="./icons/snyk.png" alt="Snyk logo" width="41px" height="41px"></a>
+<a href="https://snyk.io/" title="Snyk"><img src="./icons/snyk-tr.png" alt="Snyk logo" width="41px" height="41px"></a>
 <a href="https://observatory.mozilla.org/" title="Mozilla"><img src="./icons/mozilla.png" alt="Mozilla logo" width="41px" height="41px"></a>
 <a href="https://next-auth.js.org/" title="NextAuth"><img src="./icons/nextauth.png" alt="NextAth logo" width="41px" height="41px"></a>
 ## Testing:
-<a href="https://playwright.dev/" title="Playwright"><img src="./icons/playwright.png" alt="Playwright logo" width="51px" height="41px"></a>
-<a href="https://jestjs.io/" title="Jest"><img src="./icons/jest.png" alt="Jest logo" width="41px" height="41px"></a>
-<a href="https://testing-library.com/" title="Testing Library"><img src="./icons/testing-library.png" alt="Testing Library logo" width="41px" height="41px"></a>
-<a href="https://www.postman.com/" title="Postman"><img src="./icons/postman.png" alt="Postman logo" width="41px" height="41px"></a>
-<a href="https://www.mockaroo.com/" title="Mockaroo"><img src="./icons/mockaroo.png" alt="Mockaroo logo" width="61px" height="41px"></a>
-<a href="https://jsonplaceholder.typicode.com/" title="JSON"><img src="./icons/json.png" alt="JSON logo" width="41px" height="41px"></a>
+<a href="https://playwright.dev/" title="Playwright"><img src="./icons/playwright-tr.png" alt="Playwright logo" width="51px" height="41px"></a>
+<a href="https://jestjs.io/" title="Jest"><img src="./icons/jest-tr.png" alt="Jest logo" width="41px" height="41px"></a>
+<a href="https://testing-library.com/" title="Testing Library"><img src="./icons/testing-library-tr.png" alt="Testing Library logo" width="41px" height="41px"></a>
+<a href="https://www.postman.com/" title="Postman"><img src="./icons/postman-tr.png" alt="Postman logo" width="41px" height="41px"></a>
+<a href="https://www.mockaroo.com/" title="Mockaroo"><img src="./icons/mockaroo-tr.png" alt="Mockaroo logo" width="61px" height="41px"></a>
+<a href="https://jsonplaceholder.typicode.com/" title="JSON"><img src="./icons/json-tr.png" alt="JSON logo" width="41px" height="41px"></a>
 <a href="https://fakerjs.dev/" title="Faker"><img src="./icons/faker.svg" alt="Faker logo" width="41px" height="41px"></a>
-<a href="https://developers.google.com/search/docs/appearance/structured-data" title="Google Developers"><img src="./icons/google-dev.png" alt="Google Developers logo" width="61px" height="31px"></a>
-<a href="https://developer.chrome.com/docs/lighthouse/overview/" title="Lighthouse"><img src="./icons/lighthouse.png" alt="Lighthouse logo" width="41px" height="41px"></a>
-<a href="https://sentry.io/welcome/?" title="Sentry"><img src="./icons/sentry.png" alt="Sentry logo" width="41px" height="41px"></a>
+<a href="https://developers.google.com/search/docs/appearance/structured-data" title="Google Developers"><img src="./icons/google-dev-tr.png" alt="Google Developers logo" width="61px" height="31px"></a>
+<a href="https://developer.chrome.com/docs/lighthouse/overview/" title="Lighthouse"><img src="./icons/lighthouse-tr.png" alt="Lighthouse logo" width="41px" height="41px"></a>
+<a href="https://sentry.io/welcome/?" title="Sentry"><img src="./icons/sentry-tr.png" alt="Sentry logo" width="41px" height="41px"></a>
 ## Version Control & CI/CD:
 <a href="https://git-scm.com/" title="Git"><img src="./icons/git-icon.svg" alt="Git logo" width="41px" height="41px"></a>
 <a href="https://git-scm.com/docs/githooks" title="Git Hooks"><img src="./icons/githooks.jpg" alt="Git Hooks logo" width="41px" height="41px"></a>
