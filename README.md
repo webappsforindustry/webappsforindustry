@@ -77,7 +77,7 @@ In 2023, Web Apps for Industry emerged, focusing on the development of technical
 <a href="https://observatory.mozilla.org/" title="Mozilla"><img src="./icons/mozilla.png" alt="Mozilla logo" width="41px" height="41px"></a>
 <a href="https://next-auth.js.org/" title="NextAuth"><img src="./icons/nextauth.png" alt="NextAth logo" width="41px" height="41px"></a>
 ## Testing:
-<a href="https://playwright.dev/" title="Playwright"><img src="./icons/playwright-tr.png" alt="Playwright logo" width="51px" height="41px"></a>
+<a href="https://playwright.dev/" title="Playwright"><img src="./icons/playwright-tr.png" alt="Playwright logo" width="41px" height="41px"></a>
 <a href="https://jestjs.io/" title="Jest"><img src="./icons/jest-tr.png" alt="Jest logo" width="41px" height="41px"></a>
 <a href="https://testing-library.com/" title="Testing Library"><img src="./icons/testing-library-tr.png" alt="Testing Library logo" width="41px" height="41px"></a>
 <a href="https://www.postman.com/" title="Postman"><img src="./icons/postman-tr.png" alt="Postman logo" width="41px" height="41px"></a>
