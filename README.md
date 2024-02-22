@@ -41,7 +41,7 @@ In 2023, Web Apps for Industry emerged, focusing on the development of technical
  <div>&nbsp;</div>
 
 ## Project Management:
-<a href="https://www.wrike.com/" title="Wrike"><img src="./icons/wrike-tr.png" alt="Wrike logo" width="61px" height="41px"></a>
+<a href="https://www.atlassian.com/software/jira" title="Jira"><img src="./icons/jira.png" alt="Jira logo" width="41px" height="41px"></a>
 ## Architecture:
 <a href="https://www.diagrams.net/" title="Diagrams"><img src="./icons/diagrams.png" alt="Diagrams logo" width="41px" height="41px"></a>
 ## Design:
