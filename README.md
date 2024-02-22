@@ -84,6 +84,7 @@ In 2023, Web Apps for Industry emerged, focusing on the development of technical
 <a href="https://fakerjs.dev/" title="Faker"><img src="./icons/faker.svg" alt="Faker logo" width="41px" height="41px"></a>
 <a href="https://developers.google.com/search/docs/appearance/structured-data" title="Google Developers"><img src="./icons/google-dev-tr.png" alt="Google Developers logo" width="61px" height="31px"></a>
 <a href="https://developer.chrome.com/docs/lighthouse/overview/" title="Lighthouse"><img src="./icons/lighthouse-tr.png" alt="Lighthouse logo" width="41px" height="41px"></a>
+<a href="https://sentry.io/welcome/" title="Sentry"><img src="./icons/sentry.png" alt="Sentry logo" width="41px" height="41px"></a>
 ## Version Control & CI/CD:
 <a href="https://git-scm.com/" title="Git"><img src="./icons/git-icon-tr.png" alt="Git logo" width="41px" height="41px"></a>
 <a href="https://git-scm.com/docs/githooks" title="Git Hooks"><img src="./icons/githooks-tr.png" alt="Git Hooks logo" width="41px" height="41px"></a>
