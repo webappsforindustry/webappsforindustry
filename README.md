@@ -71,6 +71,7 @@ In 2023, Web Apps for Industry emerged, focusing on the development of technical
 <a href="https://aws.amazon.com/what-is/sql/" title="SQL"><img src="./icons/sql-tr.png" alt="SQL logo" width="41px" height="41px"></a>
 <a href="https://zod.dev/" title="Zod"><img src="./icons/zod-logo.png" alt="Zod logo" width="51px" height="41px"></a>
 <a href="https://graphql.org/" title="GraphQL"><img src="./icons/graphql-tr.png" alt="GraphQL logo" width="41px" height="41px"></a>
+<a href="" title="Docker"><img src="./icons/docker.png" alt="Docker logo" width="41px" height="41px"></a>
 ## Databases:
 <a href="https://planetscale.com/" title="Planetscale"><img src="./icons/planetscale-red.png" alt="Planetscale logo" width="41" height="41"></a>
 <a href="https://www.mysql.com/" title="MySQL"><img src="./icons/mysql.png" alt="MySQL logo" width="41" height="41"></a>
