@@ -72,7 +72,7 @@ In 2023, Web Apps for Industry emerged, focusing on the development of technical
 <a href="https://zod.dev/" title="Zod"><img src="./icons/zod-logo.png" alt="Zod logo" width="51px" height="41px"></a>
 <a href="https://graphql.org/" title="GraphQL"><img src="./icons/graphql-tr.png" alt="GraphQL logo" width="41px" height="41px"></a>
 ## Databases:
-<a href="https://planetscale.com/" title="Planetscale"><img src="./icons/planetscale-logo.png" alt="Planetscale logo" width="41" height="41"></a>
+<a href="https://planetscale.com/" title="Planetscale"><img src="./icons/planetscale-red.png" alt="Planetscale logo" width="41" height="41"></a>
 <a href="https://www.mysql.com/" title="MySQL"><img src="./icons/mysql.png" alt="MySQL logo" width="41" height="41"></a>
 <a href="https://supabase.com/" title="Supabase"><img src="./icons/supabase-tr.png" alt="Supabase logo" width="32" height="41"></a>
 <a href="https://www.postgresql.org/" title="PostgreSQL"><img src="./icons/postgresql.svg" alt="PostgreSQL logo" width="41" height="41"></a>
@@ -95,10 +95,10 @@ In 2023, Web Apps for Industry emerged, focusing on the development of technical
 ## Version Control & CI/CD:
 <a href="https://git-scm.com/" title="Git"><img src="./icons/git-icon-tr.png" alt="Git logo" width="41px" height="41px"></a>
 <a href="https://git-scm.com/docs/githooks" title="Git Hooks"><img src="./icons/githooks-tr.png" alt="Git Hooks logo" width="41px" height="41px"></a>
-<a href="https://github.com/justprogressittech" title="Github"><img src="./icons/github-tr.png" alt="Github logo" width="41px" height="41px"></a>
+<a href="https://github.com/justprogressittech" title="Github"><img src="./icons/github-red.png" alt="Github logo" width="41px" height="41px"></a>
 <a href="https://docs.github.com/en/actions" title="Github Actions"><img src="./icons/github-actions-tr.png" alt="Github Actions logo" width="41px" height="41px"></a>
 ## Hosting:
-<a href="https://vercel.com/" title="Vercel"><img src="./icons/vercel-tr.png" alt="Vercel logo" width="41px" height="41px"></a>
+<a href="https://vercel.com/" title="Vercel"><img src="./icons/vercel-red.png" alt="Vercel logo" width="41px" height="41px"></a>
 # Contact:
 <h2>info@webappsforindustry.tech</h2>
  </div>
