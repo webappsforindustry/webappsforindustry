@@ -69,7 +69,7 @@ In 2023, Web Apps for Industry emerged, focusing on the development of technical
 <a href="https://mdxjs.com/" title="MDX"><img src="./icons/mdx-tr.png" alt="MDX" width="71px" height="41px"></a>
 <a href="https://aws.amazon.com/what-is/sql/" title="SQL"><img src="./icons/sql-tr.png" alt="SQL logo" width="41px" height="41px"></a>
 <a href="https://zod.dev/" title="Zod"><img src="./icons/zod-logo.png" alt="Zod logo" width="51px" height="41px"></a>
-<a href="https://graphql.org/" title="GraphQL"><img src="./icons/graphql.png" alt="GraphQL logo" width="41px" height="41px"></a>
+<a href="https://graphql.org/" title="GraphQL"><img src="./icons/graphql-tr.png" alt="GraphQL logo" width="41px" height="41px"></a>
 ## Databases:
 <a href="https://supabase.com/" title="Supabase"><img src="./icons/supabase-tr.png" alt="Supabase logo" width="32" height="41"></a>
 <a href="https://www.postgresql.org/" title="PostgreSQL"><img src="./icons/postgresql.svg" alt="PostgreSQL logo" width="41" height="41"></a>
