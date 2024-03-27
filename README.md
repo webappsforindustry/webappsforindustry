@@ -78,7 +78,7 @@ In 2023, Web Apps for Industry emerged, focusing on the development of technical
 <a href="https://www.postgresql.org/" title="PostgreSQL"><img src="./icons/postgresql.svg" alt="PostgreSQL logo" width="41" height="41"></a>
 <a href="https://www.sqlite.org/index.html" title="SQLite"><img src="./icons/sqlite.svg" alt="SQLite logo" width="81" height="41"></a>
 ## MQTT:
-<a href="https://www.hivemq.com/" title="HiveMQ"><img src="./icons/01-hivemq-bee.png" alt="HiveMQ logo" width="41" height="41"></a>
+<a href="https://www.hivemq.com/" title="HiveMQ"><img src="./icons/01-hivemq-bee.png" alt="HiveMQ logo" width="51" height="51"></a>
 <a href="https://www.rabbitmq.com/" title="RabbitMQ"><img src="./icons/rabbitmq.png" alt="RabbitMQ logo" width="41" height="41"></a>
 ## Security:
 <a href="https://snyk.io/" title="Snyk"><img src="./icons/snyk-tr.png" alt="Snyk logo" width="41px" height="41px"></a>
