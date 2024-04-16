@@ -49,10 +49,6 @@ In 2023, Web Apps for Industry emerged, focusing on the development of technical
 <a href="https://inkscape.org/" title="Inkscape"><img src="./icons/inkscape.png" alt="Inkscape logo" width="41px" height="41px"></a>
 <a href="https://www.gimp.org/" title="GIMP"><img src="./icons/gimp.png" alt="Gimp logo" width="41px" height="41px"></a>
 <a href="https://www.figma.com/" title="Figma"><img src="./icons/figma-tr.png" alt="Figma logo" width="31px" height="41px"></a>
-<a href="https://storybook.js.org/" title="Storybook"><img src="./icons/storybook-tr.png" alt="Storybook logo" width="41px" height="41px"></a>
-<a href="https://www.animaapp.com/" title="Anima"><img src="./icons/anima.png" alt="Anima logo" width="41px" height="41px"></a>
-<a href="https://www.chromatic.com/" title="Chromatic"><img src="./icons/chromatic-tr.png" alt="Chromatic logo" width="41px" height="41px"></a>
-<a href="https://greensock.com/" title="Greensock"><img src="./icons/greensock.png" alt="Greensock logo" width="41px" height="41px"></a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/API/Canvas_API" title="Canvas"><img src="./icons/canvas-tr.png" alt="Canvas" width="41px" height="41px"></a>
 <a href="https://css-tricks.com/" title="CSS3"><img src="./icons/css-tr.png" alt="CSS3" width="41px" height="41px"></a>
 <a href="https://sass-lang.com/" title="SASS"><img src="./icons/sass-tr.png" alt="SASS logo" width="41px" height="41px"></a>
