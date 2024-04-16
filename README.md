@@ -61,7 +61,6 @@ In 2023, Web Apps for Industry emerged, focusing on the development of technical
 <a href="https://react.dev/" title="React"><img src="./icons/react.svg" alt="React logo" width="41px" height="41px"></a>
 <a href="https://nextjs.org/" title="Next"><img src="./icons/next.png" alt="Next logo" width="41px" height="41px"></a>
 <a href="https://nodejs.org/en" title="Node"><img src="./icons/nodejs.png" alt="Node logo" width="41px" height="41px"></a>
-<a href="https://nestjs.com/" title="Nest"><img src="./icons/nest.png" alt="Nest logo" width="41px" height="41px"></a>
 <a href="https://ionicframework.com/" title="Ionic"><img src="./icons/ionic.png" alt="Ionic logo" width="41px" height="41px"></a>
 <a href="https://capacitorjs.com/" title="Capacitor"><img src="./icons/capacitor.png" alt="Capacitor logo" width="41px" height="41px"></a>
 <a href="https://microservices.io/" title="Microservices"><img src="./icons/microservices.png" alt="Microservices logo" width="41px" height="41px"></a>
@@ -71,8 +70,6 @@ In 2023, Web Apps for Industry emerged, focusing on the development of technical
 <a href="https://zod.dev/" title="Zod"><img src="./icons/zod-logo.png" alt="Zod logo" width="51px" height="41px"></a>
 <a href="https://graphql.org/" title="GraphQL"><img src="./icons/graphql-tr.png" alt="GraphQL logo" width="41px" height="41px"></a>
 <a href="https://www.docker.com/" title="Docker"><img src="./icons/docker.png" alt="Docker logo" width="41px" height="41px"></a>
-<a href="https://kubernetes.io/" title="Kubernetes"><img src="./icons/kubernetes.png" alt="Kubernetes logo" width="41px" height="41px"></a>
-<a href="https://nx.dev/" title="Nx"><img src="./icons/nx-logo.png" alt="Nx logo" width="51px" height="41px"></a>
 ## Databases:
 <a href="https://planetscale.com/" title="Planetscale"><img src="./icons/planetscale-red.png" alt="Planetscale logo" width="41" height="41"></a>
 <a href="https://www.mysql.com/" title="MySQL"><img src="./icons/mysql.png" alt="MySQL logo" width="41" height="41"></a>
