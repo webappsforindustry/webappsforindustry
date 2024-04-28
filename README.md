@@ -42,6 +42,7 @@ In 2023, Web Apps for Industry emerged, focusing on the development of technical
 
 ## Project Management:
 <a href="https://docs.github.com/en/issues/planning-and-tracking-with-projects/learning-about-projects/about-projects" title="GitHub Projects"><img src="./icons/github-red.png" alt="GitHub logo" width="41px" height="41px"></a>
+<a href="https://toggl.com/" title="Toggl"><img src="./icons/toggltrack-color.svg" alt="Toggl logo" width="41px" height="41px"></a>
 ## Architecture:
 <a href="https://www.diagrams.net/" title="Diagrams"><img src="./icons/diagrams.png" alt="Diagrams logo" width="41px" height="41px"></a>
 ## Design:
