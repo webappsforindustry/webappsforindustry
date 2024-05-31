@@ -54,6 +54,7 @@ In 2023, Web Apps for Industry emerged, focusing on the development of technical
 <a href="https://tailwindcss.com/" title="Tailwind"><img src="./icons/tailwind-tr.png" alt="Tailwind logo" width="41px" height="41px"></a>
 <a href="https://ui.shadcn.com/" title="chadcn ui"><img src="./icons/chadcnui.png" alt="chadcn UI" width="41px" height="41px"></a>
 <a href="https://react-icons.github.io/react-icons/" title="React Icons"><img src="./icons/react-icons.svg" alt="React Icons logo" width="41px" height="41px"></a>
+<a href="https://recharts.org/en-US/" title="Recharts"><img src="./icons/recharts.png" alt="Recharts logo" width="41px" height="41px"></a>
 ## Development:
 <a href="https://www.typescriptlang.org/" title="Typescript"><img src="./icons/typescript-tr.png" alt="Typescript logo" width="41px" height="41px"></a>
 <a href="https://nextjs.org/" title="Next"><img src="./icons/next.png" alt="Next logo" width="41px" height="41px"></a>
