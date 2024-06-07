@@ -66,7 +66,7 @@ In 2023, Web Apps for Industry emerged, focusing on the development of technical
 <a href="https://zod.dev/" title="Zod"><img src="./icons/zod-logo.png" alt="Zod logo" width="51px" height="41px"></a>
 <a href="https://graphql.org/" title="GraphQL"><img src="./icons/graphql-tr.png" alt="GraphQL logo" width="41px" height="41px"></a>
 <a href="https://www.prisma.io/" title="Prisma"><img src="./icons/prisma-tr.png" alt="Prisma logo" width="41px" height="41px"></a>
-<a href="https://pnpm.io/" title="PNPM"><img src="./icons/pnpm-tr.png" alt="PNPM logo" width="41px" height="41px"></a>
+<a href="https://www.npmjs.com/" title="NPM"><img src="./icons/npm.svg" alt="NPM logo" width="41px" height="41px"></a>
 ## Databases:
 <a href="https://supabase.com/" title="Supabase"><img src="./icons/supabase-tr.png" alt="Supabase logo" width="32" height="41"></a>
 <a href="https://www.postgresql.org/" title="PostgreSQL"><img src="./icons/postgresql.svg" alt="PostgreSQL logo" width="41" height="41"></a>
