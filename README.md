@@ -6,6 +6,7 @@
 <a href="https://www.webappsforindustry.tech" title="Web Apps for Industry website"><img src="./icons/website-tr.png" alt="Website icon" width="41px" height="41px"></a> 
 <a href="https://www.linkedin.com/company/web-apps-for-industry" title="Linkedin"><img src="./icons/linkedin-tr.png" alt="Linkedin logo" width="41px" height="41px"></a>
 <a href="https://www.youtube.com/@webappsforindustry" title="Youtube"><img src="./icons/youtube-tr.png" alt="Youtube logo" width="61px" height="41px"></a>
+<a href="https://wakatime.com/@lslegt" title="WakaTime"><img src="./icons/wakatime.png" alt="WakaTime logo" width="41px" height="41px"></a>
 
 # About Us:
 <div align="left">
