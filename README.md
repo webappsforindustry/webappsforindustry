@@ -70,6 +70,7 @@ In 2023, Web Apps for Industry emerged, focusing on the development of technical
 <a href="https://www.npmjs.com/" title="NPM"><img src="./icons/npm.svg" alt="NPM logo" width="41px" height="41px"></a>
 ## Databases:
 <a href="https://supabase.com/" title="Supabase"><img src="./icons/supabase-tr.png" alt="Supabase logo" width="32" height="41"></a>
+<a href="https://neon.tech/" title="Neon"><img src="./icons/neon.png" alt="Neon logo" width="32" height="41"></a>
 <a href="https://www.postgresql.org/" title="PostgreSQL"><img src="./icons/postgresql.svg" alt="PostgreSQL logo" width="41" height="41"></a>
 <a href="https://www.sqlite.org/index.html" title="SQLite"><img src="./icons/sqlite.svg" alt="SQLite logo" width="81" height="41"></a>
 ## MQTT:
