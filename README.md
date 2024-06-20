@@ -44,9 +44,8 @@ In 2023, Web Apps for Industry emerged, focusing on the development of technical
 <a href="https://www.atlassian.com/software/jira" title="Jira"><img src="./icons/jira.png" alt="Jira logo" width="41px" height="41px"></a>
 <a href="https://slack.com/" title="Slack"><img src="./icons/slack.png" alt="Slack logo" width="41px" height="41px"></a>
 <a href="https://wakatime.com" title="WakaTime"><img src="./icons/wakatime.png" alt="WakaTime logo" width="41px" height="41px"></a>
-## Architecture:
-<a href="https://www.diagrams.net/" title="Diagrams"><img src="./icons/diagrams.png" alt="Diagrams logo" width="41px" height="41px"></a>
 ## Design:
+<a href="https://www.diagrams.net/" title="Diagrams"><img src="./icons/diagrams.png" alt="Diagrams logo" width="41px" height="41px"></a>
 <a href="https://www.blender.org/" title="Blender"><img src="./icons/blender-tr.png" alt="Blender logo" width="41px" height="41px"></a>
 <a href="https://inkscape.org/" title="Inkscape"><img src="./icons/inkscape.png" alt="Inkscape logo" width="41px" height="41px"></a>
 <a href="https://www.gimp.org/" title="GIMP"><img src="./icons/gimp.png" alt="Gimp logo" width="41px" height="41px"></a>
