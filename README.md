@@ -50,6 +50,7 @@ In 2023, Web Apps for Industry emerged, focusing on the development of technical
 <a href="https://inkscape.org/" title="Inkscape"><img src="./icons/inkscape.png" alt="Inkscape logo" width="41px" height="41px"></a>
 <a href="https://www.gimp.org/" title="GIMP"><img src="./icons/gimp.png" alt="Gimp logo" width="41px" height="41px"></a>
 <a href="https://www.figma.com/" title="Figma"><img src="./icons/figma-tr.png" alt="Figma logo" width="31px" height="41px"></a>
+<a href="https://storybook.js.org/" title="Storybook"><img src="./icons/storybook-tr.png" alt="Storybook logo" width="31px" height="41px"></a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/API/Canvas_API" title="Canvas"><img src="./icons/canvas-tr.png" alt="Canvas" width="41px" height="41px"></a>
 <a href="https://tailwindcss.com/" title="Tailwind"><img src="./icons/tailwind-tr.png" alt="Tailwind logo" width="41px" height="41px"></a>
 <a href="https://ui.shadcn.com/" title="chadcn ui"><img src="./icons/chadcnui.png" alt="chadcn UI" width="41px" height="41px"></a>
