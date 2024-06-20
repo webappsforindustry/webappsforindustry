@@ -98,6 +98,7 @@ In 2023, Web Apps for Industry emerged, focusing on the development of technical
 <a href="https://developer.chrome.com/docs/devtools" title="Google Developer Tools"><img src="./icons/google-dev-tools.png" alt="Google Developer Tools logo" width="41px" height="41px"></a>
 <a href="https://eslint.org/" title="ESLint"><img src="./icons/eslint.png" alt="ESLint logo" width="41px" height="41px"></a>
 <a href="https://www.deque.com/axe/devtools/" title="Axe"><img src="./icons/axe.png" alt="Axe logo" width="41px" height="41px"></a>
+<a href="https://sentry.io/welcome/" title="Sentry"><img src="./icons/sentry.png" alt="Sentry logo" width="41px" height="41px"></a>
 ## Version Control & CI/CD:
 <a href="https://git-scm.com/" title="Git"><img src="./icons/git-icon-tr.png" alt="Git logo" width="41px" height="41px"></a>
 <a href="https://github.com" title="Github"><img src="./icons/github-red.png" alt="Github logo" width="41px" height="41px"></a>
