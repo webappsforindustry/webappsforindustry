@@ -89,7 +89,7 @@ In 2023, Web Apps for Industry emerged, focusing on the development of technical
 <a href="https://playwright.dev/" title="Playwright"><img src="./icons/playwright-tr.png" alt="Playwright logo" width="51px" height="51px"></a>
 <a href="https://vitest.dev/" title="Vitest"><img src="./icons/vitest.svg" alt="Vitest logo" width="41px" height="41px"></a>
 <a href="https://testing-library.com/" title="Testing Library"><img src="./icons/testing-library-tr.png" alt="Testing Library logo" width="41px" height="41px"></a>
-<a href="https://www.chromatic.com/" title="Chromatic"><img src="./icons/chromatic.png" alt="Chromatic logo" width="41px" height="41px"></a>
+<a href="https://www.chromatic.com/" title="Chromatic"><img src="./icons/chromatic-tr.png" alt="Chromatic logo" width="41px" height="41px"></a>
 <a href="https://www.postman.com/" title="Postman"><img src="./icons/postman-tr.png" alt="Postman logo" width="41px" height="41px"></a>
 <a href="https://www.mockaroo.com/" title="Mockaroo"><img src="./icons/mockaroo-tr.png" alt="Mockaroo logo" width="51px" height="41px"></a>
 <a href="https://jsonplaceholder.typicode.com/" title="JSON"><img src="./icons/json-tr.png" alt="JSON logo" width="41px" height="41px"></a>
