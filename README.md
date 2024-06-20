@@ -6,7 +6,6 @@
 <a href="https://www.webappsforindustry.tech" title="Web Apps for Industry website"><img src="./icons/website-tr.png" alt="Website icon" width="41px" height="41px"></a> 
 <a href="https://www.linkedin.com/company/web-apps-for-industry" title="Linkedin"><img src="./icons/linkedin-tr.png" alt="Linkedin logo" width="41px" height="41px"></a>
 <a href="https://www.youtube.com/@webappsforindustry" title="Youtube"><img src="./icons/youtube-tr.png" alt="Youtube logo" width="61px" height="41px"></a>
-<a href="https://wakatime.com/@lslegt" title="WakaTime"><img src="./icons/wakatime.png" alt="WakaTime logo" width="41px" height="41px"></a>
 
 # About Us:
 <div align="left">
@@ -44,7 +43,7 @@ In 2023, Web Apps for Industry emerged, focusing on the development of technical
 ## Project Management:
 <a href="https://www.atlassian.com/software/jira" title="Jira"><img src="./icons/jira.png" alt="Jira logo" width="41px" height="41px"></a>
 <a href="https://slack.com/" title="Slack"><img src="./icons/slack.png" alt="Slack logo" width="41px" height="41px"></a>
-<a href="https://wakatime.com/@lslegt" title="WakaTime"><img src="./icons/wakatime.png" alt="WakaTime logo" width="41px" height="41px"></a>
+<a href="https://wakatime.com" title="WakaTime"><img src="./icons/wakatime.png" alt="WakaTime logo" width="41px" height="41px"></a>
 ## Architecture:
 <a href="https://www.diagrams.net/" title="Diagrams"><img src="./icons/diagrams.png" alt="Diagrams logo" width="41px" height="41px"></a>
 ## Design:
