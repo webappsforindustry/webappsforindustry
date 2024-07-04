@@ -69,7 +69,7 @@ In 2023, Web Apps for Industry emerged, focusing on the development of technical
 <a href="https://mdxjs.com/" title="MDX"><img src="./icons/mdx-tr.png" alt="MDX" width="71px" height="41px"></a>
 <a href="https://zod.dev/" title="Zod"><img src="./icons/zod-logo.png" alt="Zod logo" width="51px" height="41px"></a>
 <a href="https://graphql.org/" title="GraphQL"><img src="./icons/graphql-tr.png" alt="GraphQL logo" width="41px" height="41px"></a>
-<a href="https://hasura.io/" title=Hasura"><img src="./icons/hasura.png" alt="Hasura logo" width="41px" height="41px"></a>
+<a href="https://hasura.io/" title="Hasura"><img src="./icons/hasura.png" alt="Hasura logo" width="41px" height="41px"></a>
 <a href="https://www.prisma.io/" title="Prisma"><img src="./icons/prisma-tr.png" alt="Prisma logo" width="41px" height="41px"></a>
 <a href="https://www.npmjs.com/" title="NPM"><img src="./icons/npm.svg" alt="NPM logo" width="41px" height="41px"></a>
 <a href="https://www.locofy.ai/" title="Locofy"><img src="./icons/locofy.png" alt="Locofy logo" width="41px" height="41px"></a>
