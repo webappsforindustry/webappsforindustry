@@ -56,7 +56,7 @@ In 2023, Web Apps for Industry emerged, focusing on the development of technical
 <a href="https://developer.mozilla.org/en-US/docs/Web/API/Canvas_API" title="Canvas"><img src="./icons/canvas-tr.png" alt="Canvas" width="41px" height="41px"></a>
 <a href="https://tailwindcss.com/" title="Tailwind"><img src="./icons/tailwind-tr.png" alt="Tailwind logo" width="41px" height="41px"></a>
 <a href="https://gsap.com/" title="GSAP"><img src="./icons/greensock.png" alt="GSAP logo" width="41px" height="41px"></a>
-<a href="https://ui.shadcn.com/" title="chadcn ui"><img src="./icons/chadcnui.png" alt="chadcn UI" width="41px" height="41px"></a>
+<a href="https://ui.shadcn.com/" title="shadcn ui"><img src="./icons/shadcnui.png" alt="shadcn UI" width="41px" height="41px"></a>
 <a href="https://nextui.org/" title="NextUI"><img src="./icons/nextui.png" alt="NextUI" width="41px" height="41px"></a>
 <a href="https://recharts.org/en-US/" title="Recharts"><img src="./icons/recharts.png" alt="Recharts logo" width="41px" height="41px"></a>
 <a href="https://react-icons.github.io/react-icons/" title="React Icons"><img src="./icons/react-icons.svg" alt="React Icons logo" width="41px" height="41px"></a>
