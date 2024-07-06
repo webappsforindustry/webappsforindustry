@@ -102,7 +102,6 @@ In 2023, Web Apps for Industry emerged, focusing on the development of technical
 <a href="https://developers.google.com/search/docs/appearance/structured-data" title="Structured Data"><img src="./icons/google-dev-tr.png" alt="Google Developers logo" width="51px" height="31px"></a>
 <a href="https://developer.chrome.com/docs/devtools" title="Google Developer Tools"><img src="./icons/google-dev-tools.png" alt="Google Developer Tools logo" width="41px" height="41px"></a>
 <a href="https://eslint.org/" title="ESLint"><img src="./icons/eslint.png" alt="ESLint logo" width="41px" height="41px"></a>
-<a href="https://www.deque.com/axe/devtools/" title="Axe"><img src="./icons/axe.png" alt="Axe logo" width="41px" height="41px"></a>
 <a href="https://sentry.io/welcome/" title="Sentry"><img src="./icons/sentry-tr.svg" alt="Sentry logo" width="41px" height="41px"></a>
 <a href="https://about.codecov.io/" title="Codecov"><img src="./icons/codecov-circle.svg" alt="Codecov logo" width="41px" height="41px"></a>
 ## Version Control & CI/CD:
