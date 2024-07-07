@@ -122,8 +122,6 @@ In 2023, Web Apps for Industry emerged, focusing on the development of technical
 </a>
 </div>
 
-
-
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=webappsforindustry&layout=compact" />
  
