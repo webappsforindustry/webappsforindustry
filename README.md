@@ -116,10 +116,10 @@ In 2023, Web Apps for Industry emerged, focusing on the development of technical
  </div>
  <br/>
 <div align="center"> 
-<a href="https://github.com/webappsforindustry/github-profile-trophy"><h2>🏆 Github Profile Trophy</h2></a>
-<a href="https://github.com/webappsforindustry/github-profile-trophy">
+<h2>🏆 Github Profile Trophy</h2>
+
   <img width=800 src="https://github-profile-trophy.vercel.app/?username=webappsforindustry&column=8&theme=gruvbox&no-frame=true"/>
-</a>
+
 </div>
 
 <div align="center">
