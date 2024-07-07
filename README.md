@@ -126,6 +126,9 @@ In 2023, Web Apps for Industry emerged, focusing on the development of technical
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=webappsforindustry&layout=compact" />
  
 <br>
-
+<a href="https://wakatime.com/@lslegt" title="Wakatime">
+ 
   ![WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=lslegt)
+  
+</a>
 </div>
