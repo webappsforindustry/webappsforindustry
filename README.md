@@ -73,6 +73,7 @@ In 2023, Web Apps for Industry emerged, focusing on the development of technical
 <a href="https://www.prisma.io/" title="Prisma"><img src="./icons/prisma-tr.png" alt="Prisma logo" width="41px" height="41px"></a>
 <a href="https://www.npmjs.com/" title="NPM"><img src="./icons/npm.svg" alt="NPM logo" width="41px" height="41px"></a>
 <a href="https://www.locofy.ai/" title="Locofy"><img src="./icons/locofy.png" alt="Locofy logo" width="41px" height="41px"></a>
+<a href="https://stripe.com/" title="Stripe"><img src="./icons/stripe.png" alt="Stripe logo" width="41px" height="41px"></a>
 ## Databases:
 <a href="https://supabase.com/" title="Supabase"><img src="./icons/supabase-tr.png" alt="Supabase logo" width="32" height="41"></a>
 <a href="https://neon.tech/" title="Neon"><img src="./icons/neon.png" alt="Neon logo" width="41" height="41"></a>
