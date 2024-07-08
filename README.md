@@ -86,7 +86,7 @@ In 2023, Web Apps for Industry emerged, focusing on the development of technical
 <a href="https://github.com/mqttjs/MQTT.js" title="MQTT.JS"><img src="./icons/mqttjs.png" alt="MQTT.JS logo" width="61" height="41"></a>
 ## Security:
 <a href="https://snyk.io/" title="Snyk"><img src="./icons/snyk-tr.png" alt="Snyk logo" width="41px" height="41px"></a>
-<a href="https://next-auth.js.org/" title="NextAuth"><img src="./icons/nextauth.png" alt="NextAth logo" width="41px" height="41px"></a>
+<a href="https://authjs.dev/" title="AuthJS"><img src="./icons/nextauth.png" alt="AuthJS logo" width="41px" height="41px"></a>
 <a href="https://clerk.com/" title="Clerk"><img src="./icons/clerk.png" alt="Clerk logo" width="41px" height="41px"></a>
 <a href="https://developer.mozilla.org/en-US/observatory" title="Mozilla"><img src="./icons/mozilla.png" alt="Mozilla logo" width="41px" height="41px"></a>
 <a href="https://csp-evaluator.withgoogle.com/" title="CSP Evaluator"><img src="./icons/csp-evaluator.png" alt="CSP Evaluator logo" width="41px" height="41px"></a>
