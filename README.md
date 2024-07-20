@@ -55,7 +55,6 @@ In 2023, Web Apps for Industry emerged, focusing on the development of technical
 <a href="https://storybook.js.org/" title="Storybook"><img src="./icons/storybook-tr.png" alt="Storybook logo" width="41px" height="41px"></a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/API/Canvas_API" title="Canvas"><img src="./icons/canvas-tr.png" alt="Canvas" width="41px" height="41px"></a>
 <a href="https://tailwindcss.com/" title="Tailwind"><img src="./icons/tailwind-tr.png" alt="Tailwind logo" width="41px" height="41px"></a>
-<a href="https://gsap.com/" title="GSAP"><img src="./icons/greensock.png" alt="GSAP logo" width="41px" height="41px"></a>
 <a href="https://ui.shadcn.com/" title="shadcn/ui"><img src="./icons/shadcnui.png" alt="shadcn UI" width="41px" height="41px"></a>
 <a href="https://nextui.org/" title="NextUI"><img src="./icons/nextui.png" alt="NextUI" width="41px" height="41px"></a>
 <a href="https://recharts.org/en-US/" title="Recharts"><img src="./icons/recharts.png" alt="Recharts logo" width="41px" height="41px"></a>
@@ -65,7 +64,7 @@ In 2023, Web Apps for Industry emerged, focusing on the development of technical
 <a href="https://www.typescriptlang.org/" title="Typescript"><img src="./icons/typescript-tr.png" alt="Typescript logo" width="41px" height="41px"></a>
 <a href="https://nextjs.org/" title="Next"><img src="./icons/next.png" alt="Next logo" width="41px" height="41px"></a>
 <a href="https://ionicframework.com/" title="Ionic"><img src="./icons/ionic.png" alt="Ionic logo" width="41px" height="41px"></a>
-<a href="https://recoiljs.org/" title="Recoil"><img src="./icons/recoil-js.svg" alt="Recoil logo" width="41px" height="41px"></a>
+<a href="https://jotai.org/" title="Jotai"><img src="./icons/jotai.png" alt="Jotai logo" width="41px" height="41px"></a>
 <a href="https://mdxjs.com/" title="MDX"><img src="./icons/mdx-tr.png" alt="MDX" width="71px" height="41px"></a>
 <a href="https://zod.dev/" title="Zod"><img src="./icons/zod-logo.png" alt="Zod logo" width="51px" height="41px"></a>
 <a href="https://graphql.org/" title="GraphQL"><img src="./icons/graphql-tr.png" alt="GraphQL logo" width="41px" height="41px"></a>
