@@ -41,7 +41,7 @@ In 2023, Web Apps for Industry emerged, focusing on the development of technical
  <div>&nbsp;</div>
 
 ## Project Management:
-<a href="https://www.atlassian.com/software/jira" title="Jira"><img src="./icons/jira.png" alt="Jira logo" width="41px" height="41px"></a>
+<a href="https://clickup.com/" title="Clickup"><img src="./icons/clickup.png" alt="Clickup logo" width="41px" height="41px"></a>
 <a href="https://slack.com/" title="Slack"><img src="./icons/slack.png" alt="Slack logo" width="41px" height="41px"></a>
 <a href="https://wakatime.com" title="WakaTime"><img src="./icons/wakatime.png" alt="WakaTime logo" width="41px" height="41px"></a>
 <a href="https://zoom.us/" title="Zoom"><img src="./icons/zoom.png" alt="Zoom logo" width="41px" height="41px"></a>
