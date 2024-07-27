@@ -133,8 +133,8 @@ In 2023, Web Apps for Industry emerged, focusing on the development of technical
   ![WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=lslegt)
   
 </a>
-<a href="https://tryhackme.com/badge/3315687" title=TryHackMe">
-<img src="https://tryhackme-badges.s3.amazonaws.com/secutest.png" alt="TryHackMe">
+<a href="https://tryhackme-badges.s3.amazonaws.com/secutest.png" title=TryHackMe">
+<img src="https://tryhackme.com/badge/3315687" alt="TryHackMe">
 </a>
 </div>
 
