@@ -135,4 +135,4 @@ In 2023, Web Apps for Industry emerged, focusing on the development of technical
 </a>
 </div>
 
-<script src="https://tryhackme.com/badge/3315687"></script>
+
