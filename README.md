@@ -133,6 +133,10 @@ In 2023, Web Apps for Industry emerged, focusing on the development of technical
   ![WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=lslegt)
   
 </a>
-</div>
 
-[![StackShare](http://img.shields.io/badge/tech-stack-0690fa.svg?style=flat)](https://stackshare.io/webappsforindustry/web-apps-for-industry)
+<a href="https://stackshare.io/webappsforindustry/web-apps-for-industry" title="StackShare">
+
+  ![StackShare](http://img.shields.io/badge/tech-stack-0690fa.svg?style=flat)
+
+</a>
+</div>
