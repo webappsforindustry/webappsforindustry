@@ -139,4 +139,10 @@ In 2023, Web Apps for Industry emerged, focusing on the development of technical
   ![StackShare](http://img.shields.io/badge/tech-stack-0690fa.svg?style=flat)
 
 </a>
+
+<a  href="https://tryhackme.com/badge/3315687" title="TryHackMe">
+
+ ![TryHackMe](https://tryhackme-badges.s3.amazonaws.com/secutest.png?style=flat)
+
+</a>
 </div>
