@@ -148,8 +148,6 @@ In 2023, Web Apps for Industry emerged, focusing on the development of technical
 <a  href="https://tryhackme.com/p/secutest" title="TryHackMe">
 
  ![TryHackMe](https://tryhackme-badges.s3.amazonaws.com/secutest.png?style=flat)
- ![TryHackMe](https://tryhackme.com/badge/3315687?style=flat)
- <script src="https://tryhackme.com/badge/3315687"></script>
 
 </a>
 
