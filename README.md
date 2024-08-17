@@ -141,7 +141,7 @@ In 2023, Web Apps for Industry emerged, focusing on the development of technical
 
 <a href="https://stackshare.io/webappsforindustry/web-apps-for-industry" title="StackShare">
 
-  ![StackShare](http://img.shields.io/badge/tech-stack-0690fa.svg?style=flat)
+  ![StackShare](http://img.shields.io/badge/tech-stack-0690fa.svg?style=flat&cache-control=no-cache)
 
 </a>
 
