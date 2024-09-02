@@ -151,6 +151,6 @@ In 2023, Web Apps for Industry emerged, focusing on the development of technical
 
 </a>
 
-[![roadmap.sh](https://roadmap.sh/card/tall/66d56a34553501e3c39ff338?variant=dark)](https://roadmap.sh)
+[![roadmap.sh](https://roadmap.sh/card/tall/66d56a34553501e3c39ff338?variant=dark&cache-control=no-store&cache-control=no-cache&max-age=0)](https://roadmap.sh)
 
 </div>
