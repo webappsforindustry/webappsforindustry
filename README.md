@@ -44,6 +44,7 @@ In 2023, Web Apps for Industry emerged, focusing on the development of technical
 <a href="https://www.microsoft.com/en-us/windows" title="Windows"><img src="./icons/windows.png" alt="Windows logo" width="41px" height="41px"></a>
 <a href="https://www.kali.org/" title="Kali"><img src="./icons/kali.png" alt="Kali logo" width="41px" height="41px"></a>
 <a href="https://parrotsec.org/" title="Parrot OS"><img src="./icons/parrot.jfif" alt="Parrot OS logo" width="41px" height="41px"></a>
+<a href="https://ubuntu.com/" title="Ubuntu"><img src="./icons/ubuntu.svg" alt="Ubuntu logo" width="41px" height="41px"></a>
 ## Project Management:
 <a href="https://clickup.com/" title="Clickup"><img src="./icons/clickup-tr.png" alt="Clickup logo" width="31px" height="41px"></a>
 <a href="https://slack.com/" title="Slack"><img src="./icons/slack.png" alt="Slack logo" width="41px" height="41px"></a>
