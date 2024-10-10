@@ -88,7 +88,6 @@ In 2023, Web Apps for Industry emerged, focusing on the development of technical
 ## MQTT:
 <a href="https://www.emqx.io/" title="EMQX"><img src="./icons/emqx.png" alt="EMQX logo" width="51" height="51"></a>
 <a href="https://www.hivemq.com/" title="HiveMQ"><img src="./icons/01-hivemq-bee.png" alt="HiveMQ logo" width="51" height="51"></a>
-<a href="https://www.rabbitmq.com/" title="RabbitMQ"><img src="./icons/rabbitmq.png" alt="RabbitMQ logo" width="41" height="41"></a>
 <a href="https://mosquitto.org/" title="Mosquitto"><img src="./icons/mosquitto.png" alt="Mosquitto logo" width="41" height="41"></a>
 <a href="https://github.com/mqttjs/MQTT.js" title="MQTT.JS"><img src="./icons/mqttjs.png" alt="MQTT.JS logo" width="61" height="41"></a>
 ## Security:
