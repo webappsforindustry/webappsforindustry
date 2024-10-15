@@ -79,8 +79,8 @@ In 2023, Web Apps for Industry emerged, focusing on the development of technical
 <a href="https://www.learncpp.com/" title="C++"><img src="./icons/cpp.png" alt="C++ logo" width="41px" height="41px"></a>
 <a href="https://learn.microsoft.com/en-us/dotnet/csharp/" title="C#"><img src="./icons/cs.png" alt="C# logo" width="41px" height="41px"></a>
 <a href="https://www.java.com/" title="Java"><img src="./icons/java.png" alt="Java logo" width="41px" height="41px"></a>
+<a href="https://www.php.net/" title="PHP"><img src="./icons/php.png" alt="PHP logo" width="41px" height="41px"></a>
 
-<a href="" title="PHP"><img src="./icons/" alt=" logo" width="41px" height="41px"></a>
 <a href="" title="Python"><img src="./icons/" alt=" logo" width="41px" height="41px"></a>
 
 ## Development:
