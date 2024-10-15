@@ -69,7 +69,7 @@ In 2023, Web Apps for Industry emerged, focusing on the development of technical
 <a href="https://visualstudio.microsoft.com/" title="Visual Studio"><img src="./icons/visualstudio.png" alt="Visual Studio logo" width="41px" height="41px"></a>
 <a href="https://www.jetbrains.com/idea/" title="IntelliJ"><img src="./icons/intellij.png" alt="IntelliJ logo" width="41px" height="41px"></a>
 <a href="https://www.jetbrains.com/pycharm/" title="PyCharm"><img src="./icons/pycharm.png" alt="PyCharm logo" width="41px" height="41px"></a>
-<a href="https://www.qt.io/product/development-tools" title="QT Creator"><img src="./icons/qt.png" alt="QT logo" width="41px" height="41px"></a>
+<a href="https://www.qt.io/product/development-tools" title="QT Creator"><img src="./icons/qt.svg" alt="QT logo" width="41px" height="41px"></a>
 <a href="https://www.keil.com/" title="Keil"><img src="./icons/keil.png" alt="KEIL logo" width="41px" height="41px"></a>
 <a href="https://www.st.com/en/development-tools/stm32cubeide.html" title="STM32CubeIDE"><img src="./icons/stm32cubeide.svg" alt="STM32CubeIDE logo" width="41px" height="41px"></a>
 ## Languages:
