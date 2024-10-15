@@ -75,7 +75,7 @@ In 2023, Web Apps for Industry emerged, focusing on the development of technical
 ## Languages:
 <a href="https://www.typescriptlang.org/" title="Typescript"><img src="./icons/typescript-tr.png" alt="Typescript logo" width="41px" height="41px"></a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" title="Javascript"><img src="./icons/javascript.svg" alt="Javascript logo" width="41px" height="41px"></a>
-<a href="https://www.geeksforgeeks.org/what-is-assembly-language/" title="Assembly"><img src="./icons/assembly.png" alt="Assembly logo" width="41px" height="41px"></a>
+<a href="https://www.geeksforgeeks.org/what-is-assembly-language/" title="Assembly"><img src="./icons/asm.png" alt="Assembly logo" width="41px" height="41px"></a>
 <a href="https://www.geeksforgeeks.org/c-programming-language/" title="C"><img src="./icons/c.png" alt="C logo" width="41px" height="41px"></a>
 <a href="https://www.learncpp.com/" title="C++"><img src="./icons/cpp.png" alt="C++ logo" width="41px" height="41px"></a>
 <a href="https://learn.microsoft.com/en-us/dotnet/csharp/" title="C#"><img src="./icons/cs.png" alt="C# logo" width="41px" height="41px"></a>
