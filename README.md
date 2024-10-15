@@ -80,9 +80,7 @@ In 2023, Web Apps for Industry emerged, focusing on the development of technical
 <a href="https://learn.microsoft.com/en-us/dotnet/csharp/" title="C#"><img src="./icons/cs.png" alt="C# logo" width="41px" height="41px"></a>
 <a href="https://www.java.com/" title="Java"><img src="./icons/java.png" alt="Java logo" width="41px" height="41px"></a>
 <a href="https://www.php.net/" title="PHP"><img src="./icons/php.png" alt="PHP logo" width="41px" height="41px"></a>
-
-<a href="" title="Python"><img src="./icons/" alt=" logo" width="41px" height="41px"></a>
-
+<a href="https://www.python.org/" title="Python"><img src="./icons/python.png" alt="Python logo" width="41px" height="41px"></a>
 ## Development:
 <a href="https://nextjs.org/" title="Next"><img src="./icons/next.png" alt="Next logo" width="41px" height="41px"></a>
 <a href="https://ionicframework.com/" title="Ionic"><img src="./icons/ionic.png" alt="Ionic logo" width="41px" height="41px"></a>
