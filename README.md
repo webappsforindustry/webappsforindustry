@@ -74,6 +74,15 @@ In 2023, Web Apps for Industry emerged, focusing on the development of technical
 <a href="https://www.st.com/en/development-tools/stm32cubeide.html" title="STM32CubeIDE"><img src="./icons/STM32.png" alt="STM32CubeIDE logo" width="41px" height="41px"></a>
 ## Languages:
 <a href="https://www.typescriptlang.org/" title="Typescript"><img src="./icons/typescript-tr.png" alt="Typescript logo" width="41px" height="41px"></a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" title="Javascript"><img src="./icons/javascript.png" alt="Javascript logo" width="41px" height="41px"></a>
+
+<a href="" title="C"><img src="./icons/" alt=" logo" width="41px" height="41px"></a>
+<a href="" title="C++"><img src="./icons/" alt=" logo" width="41px" height="41px"></a>
+<a href="" title="C#"><img src="./icons/" alt=" logo" width="41px" height="41px"></a>
+<a href="" title="Java"><img src="./icons/" alt=" logo" width="41px" height="41px"></a>
+<a href="" title="PHP"><img src="./icons/" alt=" logo" width="41px" height="41px"></a>
+<a href="" title="Python"><img src="./icons/" alt=" logo" width="41px" height="41px"></a>
+
 ## Development:
 <a href="https://nextjs.org/" title="Next"><img src="./icons/next.png" alt="Next logo" width="41px" height="41px"></a>
 <a href="https://ionicframework.com/" title="Ionic"><img src="./icons/ionic.png" alt="Ionic logo" width="41px" height="41px"></a>
