@@ -117,7 +117,6 @@ In 2023, Web Apps for Industry emerged, focusing on the development of technical
 <a href="https://nmap.org/" title="NMap"><img src="./icons/nmap.png" alt="NMap logo" width="41px" height="41px"></a>
 <a href="https://portswigger.net/burp/communitydownload" title="Burp Suite"><img src="./icons/burp.png" alt="Burp Suite logo" width="41px" height="41px"></a>
 <a href="https://www.metasploit.com/" title="MetaSploit"><img src="./icons/metasploit.png" alt="Metasploit logo" width="41px" height="41px"></a>
-<a href="https://www.tenable.com/products/nessus" title="Nessus"><img src="./icons/nessus.png" alt="Nessus logo" width="61px" height="41px"></a>
 ## Testing:
 <a href="https://playwright.dev/" title="Playwright"><img src="./icons/playwright-tr.png" alt="Playwright logo" width="51px" height="51px"></a>
 <a href="https://vitest.dev/" title="Vitest"><img src="./icons/vitest.svg" alt="Vitest logo" width="41px" height="41px"></a>
