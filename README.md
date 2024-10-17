@@ -97,6 +97,7 @@ In 2023, Web Apps for Industry emerged, focusing on the development of technical
 <a href="https://www.locofy.ai/" title="Locofy"><img src="./icons/locofy.png" alt="Locofy logo" width="41px" height="41px"></a>
 <a href="https://stripe.com/" title="Stripe"><img src="./icons/stripe.png" alt="Stripe logo" width="41px" height="41px"></a>
 <a href="https://resend.com/" title="Resend"><img src="./icons/resend.png" alt="Resend logo" width="41px" height="41px"></a>
+<a href="https://www.microej.com/" title="MicroEJ"><img src="./icons/mej.png" alt="MicroEJ logo" width="41px" height="41px"></a>
 ## Databases:
 <a href="https://supabase.com/" title="Supabase"><img src="./icons/supabase-tr.png" alt="Supabase logo" width="32" height="41"></a>
 <a href="https://neon.tech/" title="Neon"><img src="./icons/neon.png" alt="Neon logo" width="41" height="41"></a>
