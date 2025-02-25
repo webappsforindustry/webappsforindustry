@@ -145,17 +145,6 @@ In 2023, Web Apps for Industry emerged, focusing on the development of technical
 <h2>info@webappsforindustry.tech</h2>
  </div>
  <br/>
-<div align="center"> 
-<h2>🏆 Github Profile Trophy</h2>
-
-  <img width=800 src="https://github-profile-trophy.vercel.app/?username=webappsforindustry&column=8&theme=gruvbox&no-frame=true"/>
-
-</div>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=webappsforindustry&layout=compact" />
- 
-<br>
 
 <a  href="https://tryhackme.com/p/secutest" title="TryHackMe">
 
